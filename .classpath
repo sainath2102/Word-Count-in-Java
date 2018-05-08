@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/MR jars/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/aspectjtools-1.6.11.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jdeb-0.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/MR jars/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
